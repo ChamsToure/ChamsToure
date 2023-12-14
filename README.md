@@ -1,3 +1,3 @@
 # Hi there 
 
-I like to work with intelligence.
+I like to work on artificial intelligence.
